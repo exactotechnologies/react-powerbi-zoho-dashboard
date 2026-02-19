@@ -4,6 +4,5 @@ React dashboard integrating Zoho CRM data with embedded Microsoft Power BI repor
 
 - JavaScript (Node.js)
 - React.js
-- Flutter
-- MySQL
-
+- PowerBI
+- Zoho
